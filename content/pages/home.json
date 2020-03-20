@@ -38,7 +38,15 @@
       },
       {
         "_template": "setup_point",
-        "step": "Open the sidebar 🤩, edit your site and watch the content updating in real-time"
+        "step": "Open the sidebar 🤩, edit your site and watch the content updating in real-time this is my change"
+      },
+      {
+        "_template": "setup_point",
+        "step": "Make yourself a dang quesadilla"
+      },
+      {
+        "_template": "setup_point",
+        "step": "Make yourself a dang quesadilla"
       }
     ],
     "code_ex": "/img/terminal.png"
